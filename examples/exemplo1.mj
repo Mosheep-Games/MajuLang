@@ -1,0 +1,8 @@
+# Exemplo MAJU — por caos
+
+var x = 10
+let y = 20
+variavel nome = "Caos"
+
+print(nome)
+escreva(x + y)
